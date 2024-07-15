@@ -1,0 +1,5 @@
+__pycache__
+*.egg-info/
+.tox
+.python-version
+chroma_db/

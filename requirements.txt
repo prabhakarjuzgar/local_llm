@@ -1,0 +1,15 @@
+aiofiles
+awswrangler
+boto3
+fastapi
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-mongodb
+pydantic
+pymongo
+pypdf
+torch
+transformers
+wikipedia
